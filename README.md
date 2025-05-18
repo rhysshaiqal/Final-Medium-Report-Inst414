@@ -174,11 +174,10 @@ Create a feature branch
 Submit a pull request with detailed description
 
 📞 Contact
-Author: [Your Name]
+Author: Rhyss Idham
 
-Email: [your.email@example.com]
-LinkedIn: [Your LinkedIn Profile]
-Medium: [Your Medium Profile]
+Email: rhysshaiqal2002@gmail.com
+
 
 Course: INST414 - Data Science Techniques
 Institution: University of Maryland
@@ -188,7 +187,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 🙏 Acknowledgments
 
 Dataset: IBM Watson Analytics Telco Customer Churn Dataset
-Course Instructor: [Instructor Name]
 Libraries: pandas, scikit-learn, matplotlib, seaborn, numpy
 Inspiration: Real-world telecommunications industry challenges
 
